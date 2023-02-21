@@ -1,2 +1,3 @@
+role, NetID, LastName, FirstName
 boss, kgupta42, Gupta, Khushboo
 employee,mwooding,Wooding,Mary
